@@ -17,8 +17,7 @@ The First one is to transfer the money to the selected accounts
 The second one is to check is there is any balance left. If everything went right the funds will be transferes
 
 Everytime you hit the buttoms to build the contract and to deposit you will need to confirm the transaction in the Metamask wallet.
-
+![Alt Text](/Screenshot/000.png)
 ![Alt Text](/Screenshot/111.png)
-![Alt Text](/Screenshot/222.png)
 ![Alt Text](/Screenshot/333.png)
 
