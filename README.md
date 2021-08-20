@@ -1,22 +1,16 @@
 # Advanced_Solidity
 
-1)AssociateProfitSplitter 
+ 
+This crowdsale contract will manage the entire process, allowing users to send ETH and get back PUP (PupperCoin).
+This contract will mint the tokens automatically and distribute them to buyers in one transaction.
+Contract Puppercoin Ropstein
+PupperCoin
+0x1b67483b682c48D1dc875d7d46b9C5be6b562571
+SalesDeployer
+0x440F7870DeFFB694CC33862841Edf9340fe5bb52
 
-It is a contract to split a specific amount equaly between 3 Accounts
-When you deploy the contract you have to: 
-- Pick the three Accounts that will receive the funds and fill -one, -two and -three with its addresses.
-- It is important to keep zero on the value in the first deployment
-- Enter the account and the right network in the Metamask wallet
-- Make sure you have funds
-- Once deployed you will see two buttoms
+Copy the info of the steps below to configure Token. 
 
-1. deposit
-2. balance
-
-The First one is to transfer the money to the selected accounts
-The second one is to check is there is any balance left. If everything went right the funds will be transferes
-
-Everytime you hit the buttoms to build the contract and to deposit you will need to confirm the transaction in the Metamask wallet.
 ![Alt Text](/Screenshot/000.png)
 ![Alt Text](/Screenshot/111.png)
 ![Alt Text](/Screenshot/333.png)
